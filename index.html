@@ -24,48 +24,82 @@
 	<body>
 	
 	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h4 class="modal-title" id="myModalLabel">Paramètres d'IF</h4>
-      </div>
-      <div class="modal-body">
-      	<form role="form">
-      		<div class="form-group">
-	          <label for="indice">Indice de sensibilité :</label>
-	          <input type="number" step="any" class="form-control" id="indice" placeholder="Indice (g/L diminué par 1 UI)">
-	        </div>
-	        <div class="form-group">
-	          <label for="coef1">Coefficient du matin :</label>
-	          <input type="number" step="any" class="form-control" id="coef1" placeholder="Coefficient (UI pour 10g)">
-	        </div>
-	        <div class="form-group">
-	          <label for="coef2">Coefficient du midi :</label>
-	          <input type="number" step="any" class="form-control" id="coef2" placeholder="Coefficient (UI pour 10g)">
-	        </div>
-	        <div class="form-group">
-	          <label for="coef3">Coefficient de l'aprés-midi :</label>
-	          <input type="number" step="any" class="form-control" id="coef3" placeholder="Coefficient (UI pour 10g)">
-	        </div>
-	        <div class="form-group">
-	          <label for="coef4">Coefficient du soir :</label>
-	          <input type="number" step="any" class="form-control" id="coef4" placeholder="Coefficient (UI pour 10g)">
-	        </div>
-	        <div class="form-group">
-	          <label for="coef5">Coefficient de nuit :</label>
-	          <input type="number" step="any" class="form-control" id="coef5" placeholder="Coefficient (UI pour 10g)">
-	        </div>
-      	</form>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Annuler</button>
-        <button type="button" class="btn btn-primary" id="btn-save">Sauvegarder</button>
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div>
-
+	  <div class="modal-dialog">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+	        <h4 class="modal-title" id="myModalLabel">Paramètres d'IF</h4>
+	      </div>
+	      <div class="modal-body">
+	      	<form role="form">
+	      		<div class="form-group">
+		          <label for="indice">Indice de sensibilité :</label>
+		          <input type="number" step="any" class="form-control" id="indice" placeholder="Indice (g/L diminué par 1 UI)">
+		        </div>
+		        <div class="form-group">
+		          <label for="coef1">Coefficient du matin :</label>
+		          <input type="number" step="any" class="form-control" id="coef1" placeholder="Coefficient (UI pour 10g)">
+		        </div>
+		        <div class="form-group">
+		          <label for="coef2">Coefficient du midi :</label>
+		          <input type="number" step="any" class="form-control" id="coef2" placeholder="Coefficient (UI pour 10g)">
+		        </div>
+		        <div class="form-group">
+		          <label for="coef3">Coefficient de l'aprés-midi :</label>
+		          <input type="number" step="any" class="form-control" id="coef3" placeholder="Coefficient (UI pour 10g)">
+		        </div>
+		        <div class="form-group">
+		          <label for="coef4">Coefficient du soir :</label>
+		          <input type="number" step="any" class="form-control" id="coef4" placeholder="Coefficient (UI pour 10g)">
+		        </div>
+		        <div class="form-group">
+		          <label for="coef5">Coefficient de nuit :</label>
+		          <input type="number" step="any" class="form-control" id="coef5" placeholder="Coefficient (UI pour 10g)">
+		        </div>
+	      	</form>
+	      </div>
+	      <div class="modal-footer">
+	        <button type="button" class="btn btn-default" data-dismiss="modal">Annuler</button>
+	        <button type="button" class="btn btn-primary" id="btn-save">Sauvegarder</button>
+	      </div>
+	    </div><!-- /.modal-content -->
+	  </div><!-- /.modal-dialog -->
+	</div>
+	
+	<div class="modal fade" id="modalAide" tabindex="-1" role="dialog" aria-labelledby="modalAideLabel" aria-hidden="true">
+	  <div class="modal-dialog">
+	    <div class="modal-content">
+	      <div class="modal-header">
+	        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+	        <h4 class="modal-title" id="modalAideLabel">Aide au calcul des glucides</h4>
+	      </div>
+	      <div class="modal-body">
+	      	<table>
+	      		<tr><th>Aliment</th><th>Glucides</th></tr>
+      			<tr><td>Riz</td><td>30 %</td></tr>
+      			<tr><td>Pates, semoule</td><td>20 %</td></tr>
+      			<tr><td>Pommes de terre, maïs</td><td>20 %</td></tr>
+      			<tr><td>Pois cassés, pois chiches</td><td>20 %</td></tr>
+      			<tr><td>Purée</td><td>15 %</td></tr>
+      			<tr><td>Légumes secs</td><td>15 %</td></tr>
+      			<tr><td>Haricots blanc, rouges</td><td>15 %</td></tr>
+      			<tr><td>Lentilles</td><td>15 %</td></tr>
+      			<tr><td>Farine</td><td>75 %</td></tr>
+      			<tr><td>Biscotte</td><td>70 %</td></tr>
+      			<tr><td>Pain</td><td>50 %</td></tr>
+      			<tr><td>Légumes</td><td>5 %</td></tr>
+      			<tr><td>Salade, endives</td><td>0 %</td></tr>
+      			<tr><td>Frites</td><td>40 %</td></tr>
+      			<tr><td>Agrumes</td><td>10 %</td></tr>
+      			<tr><td>Fruits</td><td>15 %</td></tr>
+      			<tr><td>Banane</td><td>20 %</td></tr>
+      			<tr><td>Châtaignes</td><td>40 %</td></tr>
+      			<tr><td>Fruits secs</td><td>60 %</td></tr>
+	      	</table>
+	      </div>
+	    </div><!-- /.modal-content -->
+	  </div><!-- /.modal-dialog -->
+	</div>
 
 				<!-- Page principale -->
 		<div id="content">
@@ -103,7 +137,8 @@
 						</div>
 			        </div>
 			        <div class="form-group">
-			          <label for="glycemie">Glycémie avant repas :</label>
+			          <label for="glycemie">Glycémie avant repas : <button class="btn btn-xs" id="btn-aide">aide</button>
+</label>
 			          <input type="number" step="any" class="form-control" id="glycemie" placeholder="Glycémie (g/dL)">
 			        </div>
 			        
@@ -111,7 +146,7 @@
 					
 					<div class="form-group">
 			          <label for="glucides">Glucides du repas :</label>
-			          <input type="number"  step="any"class="form-control" id="glucides" placeholder="Glucides (grammes)">
+			          <input type="number" step="any" class="form-control" id="glucides" placeholder="Glucides (grammes)">
 			        </div>
 			        <div class="form-group">
 						<button class="btn btn-primary btn-block" id="btn-calcul">Calculer</button>
@@ -186,6 +221,10 @@
 				$("#coef4").val(localStorage.getItem("coef4"));
 				$("#coef5").val(localStorage.getItem("coef5"));
 				$('#myModal').modal();
+			});
+			$("#btn-aide").click(function(e){
+				e.preventDefault();
+				$('#modalAide').modal();
 			});
 			$("#btn-save").click(function(e){
 				//sauvegarde
