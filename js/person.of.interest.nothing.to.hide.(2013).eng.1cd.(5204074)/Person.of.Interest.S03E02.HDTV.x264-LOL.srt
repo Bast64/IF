@@ -1,0 +1,3200 @@
+1
+00:00:02,060 --> 00:00:03,450
+You are being watched.
+
+2
+00:00:04,500 --> 00:00:06,400
+The government has
+a secret system--
+
+3
+00:00:06,810 --> 00:00:10,340
+a machine that spies on
+you every hour of every day.
+
+4
+00:00:11,260 --> 00:00:13,580
+I designed the machine
+to detect acts of terror
+
+5
+00:00:13,690 --> 00:00:15,010
+but it sees
+everything--
+
+6
+00:00:15,420 --> 00:00:18,030
+violent crimes involving
+ordinary people.
+
+7
+00:00:18,870 --> 00:00:21,540
+The government considered
+these people irrelevant.
+
+8
+00:00:21,860 --> 00:00:22,700
+We don't.
+
+9
+00:00:23,990 --> 00:00:27,830
+Hunted by the authorities,
+we work in secret.
+
+10
+00:00:28,520 --> 00:00:29,850
+You'll never find us.
+
+11
+00:00:30,240 --> 00:00:32,320
+But victim or perpetrator,
+
+12
+00:00:32,500 --> 00:00:35,380
+if your number's
+up, we'll find you.
+
+13
+00:00:43,190 --> 00:00:45,245
+Everything's in place.
+
+14
+00:00:45,280 --> 00:00:47,300
+Good, let's begin.
+
+15
+00:01:22,240 --> 00:01:23,410
+He does that.
+
+16
+00:01:25,080 --> 00:01:27,050
+The man likes his privacy.
+
+17
+00:01:27,690 --> 00:01:29,400
+You can't blame a girl for trying.
+
+18
+00:01:34,040 --> 00:01:35,160
+It's for you.
+
+19
+00:01:38,690 --> 00:01:40,080
+Good morning, Ms. Shaw.
+
+20
+00:01:40,560 --> 00:01:41,440
+Morning.
+
+21
+00:01:41,450 --> 00:01:43,290
+Beautiful day for a walk.
+
+22
+00:01:43,325 --> 00:01:44,415
+I suppose.
+
+23
+00:01:44,450 --> 00:01:46,870
+When you finish yours, could
+you join us back at the library?
+
+24
+00:01:46,905 --> 00:01:48,340
+We have another number.
+
+25
+00:02:17,530 --> 00:02:19,180
+Detective Carter, right?
+
+26
+00:02:19,215 --> 00:02:21,090
+Office actually.
+
+27
+00:02:21,670 --> 00:02:22,960
+Alonzo Quinn.
+
+28
+00:02:23,450 --> 00:02:25,755
+Cal's Godfather, of course.
+
+29
+00:02:25,790 --> 00:02:27,730
+I remember you from the funeral.
+
+30
+00:02:27,890 --> 00:02:30,150
+Your eulogy was beautiful.
+
+31
+00:02:30,460 --> 00:02:33,330
+Wasn't hard to find beautiful
+things to say about Cal.
+
+32
+00:02:34,860 --> 00:02:37,335
+Chief was keeping me
+apprised of his case.
+
+33
+00:02:37,370 --> 00:02:40,670
+Says they're looking at a couple
+of Carl Elias' men as the shooters.
+
+34
+00:02:41,040 --> 00:02:42,980
+Yes, heard that too.
+
+35
+00:02:43,350 --> 00:02:44,640
+You think otherwise?
+
+36
+00:02:46,280 --> 00:02:50,130
+Not sure. But I think
+there is more to than that.
+
+37
+00:02:53,670 --> 00:02:55,265
+My shift is about start.
+
+38
+00:02:55,300 --> 00:02:57,620
+Don't let me hold you up. It's
+nice seeing you again, Office.
+
+39
+00:02:57,655 --> 00:02:59,330
+Me too. Take care.
+
+40
+00:03:08,500 --> 00:03:09,500
+It's me.
+
+41
+00:03:09,800 --> 00:03:12,970
+I think we might still have
+a problem with Office Carter.
+
+42
+00:03:18,640 --> 00:03:19,460
+What's up?
+
+43
+00:03:19,470 --> 00:03:21,230
+Looking for news on Cal's case.
+
+44
+00:03:21,380 --> 00:03:22,650
+I haven't heard any.
+
+45
+00:03:22,660 --> 00:03:25,455
+What about in the database?
+
+46
+00:03:25,490 --> 00:03:27,340
+- Carter...
+- Look, I'd check myself,
+
+47
+00:03:27,375 --> 00:03:29,155
+but you know they pulled my access.
+
+48
+00:03:29,190 --> 00:03:30,885
+Yes, they will pull
+mine too if they catch me
+
+49
+00:03:30,920 --> 00:03:32,580
+poking around a case
+I'm not assigned to.
+
+50
+00:03:32,615 --> 00:03:34,480
+Come on, it's important.
+
+51
+00:03:35,200 --> 00:03:38,500
+Ok. When it clears out a little.
+
+52
+00:03:38,535 --> 00:03:39,810
+Thanks, Fusco.
+
+53
+00:03:49,580 --> 00:03:51,370
+I've got our number, Finch.
+
+54
+00:03:51,820 --> 00:03:53,285
+What do you know about this guy?
+
+55
+00:03:53,320 --> 00:03:57,600
+Wayne Kruger, 43, married,
+Internet entrepreneur,
+
+56
+00:03:57,635 --> 00:04:01,160
+and founder of a company
+called "LifeTrace".
+
+57
+00:04:01,195 --> 00:04:02,535
+And what's their business?
+
+58
+00:04:02,570 --> 00:04:06,240
+They marketed themselves as
+a "People Search" service,
+
+59
+00:04:06,275 --> 00:04:09,910
+where their users can look
+up old friends or relatives
+
+60
+00:04:09,920 --> 00:04:11,850
+anyone they've fallen
+out of touch with.
+
+61
+00:04:11,885 --> 00:04:13,375
+Sounds harmless enough.
+
+62
+00:04:13,410 --> 00:04:16,180
+There is, however,
+more to it than that.
+
+63
+00:04:16,350 --> 00:04:17,530
+Always is.
+
+64
+00:04:18,310 --> 00:04:20,790
+Their business isn't really
+about reconnecting people,
+
+65
+00:04:20,800 --> 00:04:24,760
+it's about collecting and
+selling their information.
+
+66
+00:04:24,795 --> 00:04:26,680
+He's a data broker.
+
+67
+00:04:26,690 --> 00:04:28,205
+What kind of data?
+
+68
+00:04:28,240 --> 00:04:30,560
+Anything you would ever
+wanna know about a person
+
+69
+00:04:30,595 --> 00:04:33,365
+where they live, work, shop, eat,
+
+70
+00:04:33,400 --> 00:04:36,075
+how much they earn,
+how they vote and more.
+
+71
+00:04:36,110 --> 00:04:40,540
+Then he turns around and sells the
+information to businesses, individuals
+
+72
+00:04:40,575 --> 00:04:41,750
+even the government.
+
+73
+00:04:41,760 --> 00:04:42,705
+Is that legal?
+
+74
+00:04:42,740 --> 00:04:46,320
+Technically, data brokers get their
+information from public records,
+
+75
+00:04:46,330 --> 00:04:49,630
+but also from the ways people
+reveal themselves online
+
+76
+00:04:49,665 --> 00:04:51,510
+whether they're aware
+or whether they're not.
+
+77
+00:04:51,640 --> 00:04:53,650
+Sounds a little like your machine.
+
+78
+00:04:54,420 --> 00:04:57,575
+A principle difference would be
+
+79
+00:04:57,610 --> 00:05:00,520
+that the machine never
+reveals any of its information
+
+80
+00:05:00,555 --> 00:05:02,482
+beyond the social security number.
+
+81
+00:05:02,517 --> 00:05:04,375
+So you're not a fan of Kruger's.
+
+82
+00:05:04,410 --> 00:05:05,315
+People like him are
+one of the reasons
+
+83
+00:05:05,350 --> 00:05:09,060
+I made sure the machine
+was impenetrable black box.
+
+84
+00:05:09,095 --> 00:05:10,860
+Kruger's just entered his building.
+
+85
+00:05:11,090 --> 00:05:12,735
+He's in Shaw's hands now.
+
+86
+00:05:12,770 --> 00:05:14,980
+I hope sending her in
+there was a good decision.
+
+87
+00:05:15,015 --> 00:05:17,285
+You doubt her ability
+to be discreet?
+
+88
+00:05:17,320 --> 00:05:19,820
+I doubt her ability to
+keep from shooting someone?
+
+89
+00:05:41,720 --> 00:05:42,820
+I'm in, Finch.
+
+90
+00:05:45,320 --> 00:05:47,820
+Kruger's got some kind
+of big shot meeting.
+
+91
+00:05:51,390 --> 00:05:53,590
+Gentlemen, we're thrilled
+that you're considering us.
+
+92
+00:05:53,625 --> 00:05:55,955
+We know that Riverton
+is a huge retailer
+
+93
+00:05:55,990 --> 00:05:58,090
+and that you've got your pick
+of potential data partners.
+
+94
+00:05:59,090 --> 00:06:00,965
+We've done
+our homework--
+
+95
+00:06:01,000 --> 00:06:04,345
+or rather peter has
+done our homework, and
+
+96
+00:06:04,380 --> 00:06:07,920
+he says you're one of the
+companies we should consider.
+
+97
+00:06:07,930 --> 00:06:10,140
+I've looked at all the
+information you provided,
+
+98
+00:06:10,175 --> 00:06:12,485
+including the company
+profile, growth rate,
+
+99
+00:06:12,520 --> 00:06:16,320
+consumer analytic statistics,
+and data points per target--
+
+100
+00:06:16,770 --> 00:06:18,010
+Congratulations.
+
+101
+00:06:28,590 --> 00:06:30,950
+Any problems with
+your cover, Ms. Shaw?
+
+102
+00:06:30,985 --> 00:06:32,990
+Not unless someone asks me to type.
+
+103
+00:06:38,420 --> 00:06:39,560
+A baby rattle?
+
+104
+00:06:40,610 --> 00:06:43,355
+I apologize if I
+spoiled the surprise.
+
+105
+00:06:43,390 --> 00:06:47,085
+No, it's all right,
+it's just, my wife and I
+
+106
+00:06:47,120 --> 00:06:50,400
+haven't told anybody
+outside the immediate family.
+
+107
+00:06:51,350 --> 00:06:53,545
+- How did you know?
+- Your wine consumption.
+
+108
+00:06:53,580 --> 00:06:55,590
+- Excuse me?
+- It's dropped from two bottles a week
+
+109
+00:06:55,600 --> 00:06:57,115
+to almost nothing in
+the past three months,
+
+110
+00:06:57,150 --> 00:06:59,870
+And your milk, yogurt, and
+cheese consumption has tripled.
+
+111
+00:07:01,360 --> 00:07:03,395
+The grocery store where you shop.
+
+112
+00:07:03,430 --> 00:07:06,460
+You're members of their
+customer loyalty program.
+
+113
+00:07:06,960 --> 00:07:08,250
+We created that.
+
+114
+00:07:09,230 --> 00:07:12,000
+And I thought they
+just sent out coupons.
+
+115
+00:07:12,280 --> 00:07:13,965
+No. Programs like that
+
+116
+00:07:14,000 --> 00:07:17,055
+are just scratching the
+surface of what we can do.
+
+117
+00:07:17,090 --> 00:07:20,110
+What we're really working
+towards here at LifeTrace
+
+118
+00:07:20,145 --> 00:07:21,165
+is the future,
+
+119
+00:07:21,200 --> 00:07:23,460
+A future where every
+person's needs will be met
+
+120
+00:07:23,495 --> 00:07:25,720
+because we have all the
+information necessary
+
+121
+00:07:25,730 --> 00:07:27,480
+to meet those needs.
+
+122
+00:07:28,150 --> 00:07:31,160
+Eating habits to predict diseases.
+
+123
+00:07:31,490 --> 00:07:34,795
+Compatibility factors
+to eliminate loneliness.
+
+124
+00:07:34,830 --> 00:07:37,290
+And the way we do that is
+by getting to know someone,
+
+125
+00:07:37,325 --> 00:07:40,080
+from the major
+events of their lives,
+
+126
+00:07:40,090 --> 00:07:43,220
+right down to the tiniest
+detail of their everyday routine.
+
+127
+00:07:43,255 --> 00:07:45,725
+Learning everything about a person
+
+128
+00:07:45,760 --> 00:07:48,870
+allows us to help them
+improve their life.
+
+129
+00:07:48,905 --> 00:07:50,325
+Sounds appealing, but can I ask,
+
+130
+00:07:50,360 --> 00:07:53,540
+have you run into any issues
+with respect to privacy concerns?
+
+131
+00:07:53,575 --> 00:07:55,215
+Nothing significant.
+
+132
+00:07:55,250 --> 00:07:57,515
+There are always a few who
+take issue with what we do,
+
+133
+00:07:57,550 --> 00:08:02,350
+but these days, people know,
+you can't fight the technology.
+
+134
+00:08:03,340 --> 00:08:07,330
+And let's be honest, those
+crying the loudest about privacy
+
+135
+00:08:07,980 --> 00:08:10,280
+are probably the ones
+trying to hide something.
+
+136
+00:08:11,050 --> 00:08:12,705
+That's why--
+uh, Barry.
+
+137
+00:08:12,740 --> 00:08:17,450
+- Oh, yeah.
+- That's why I put my own profile up on our site.
+
+138
+00:08:17,940 --> 00:08:22,100
+Anyone can look me up and
+see, I've got nothing to hide.
+
+139
+00:08:27,730 --> 00:08:30,740
+We'll need to work out a
+proposal to present to our board.
+
+140
+00:08:31,120 --> 00:08:33,470
+How would tomorrow
+morning work for you?
+
+141
+00:08:34,170 --> 00:08:35,240
+Sounds great.
+
+142
+00:08:41,300 --> 00:08:42,465
+Yes, it'll be all
+their numbers--
+
+143
+00:08:42,500 --> 00:08:43,810
+Whatever's going on with this guy,
+
+144
+00:08:43,845 --> 00:08:45,085
+it sure isn't hurting his business.
+
+145
+00:08:45,120 --> 00:08:48,030
+I think it's time to look a
+little more closely at Mr. Kruger.
+
+146
+00:08:48,065 --> 00:08:50,940
+People who say they have
+nothing to hide almost always do.
+
+147
+00:09:00,960 --> 00:09:03,030
+Nothing comes up on his record.
+
+148
+00:09:03,065 --> 00:09:05,480
+Thank you for checking.
+
+149
+00:09:05,710 --> 00:09:07,600
+I understand you're
+back on the day shift.
+
+150
+00:09:07,635 --> 00:09:09,530
+Yeah, but I'm giving up something
+
+151
+00:09:10,380 --> 00:09:11,440
+What's that?
+
+152
+00:09:11,690 --> 00:09:13,090
+My patience.
+
+153
+00:09:13,310 --> 00:09:14,320
+Good morning.
+
+154
+00:09:14,660 --> 00:09:15,810
+We'll see.
+
+155
+00:09:19,960 --> 00:09:21,045
+Before we roll, I just want to say
+
+156
+00:09:21,080 --> 00:09:22,720
+I'm really looking forward
+to working together and--
+
+157
+00:09:23,320 --> 00:09:24,300
+Laskey,
+
+158
+00:09:24,740 --> 00:09:27,340
+one, I didn't want to be an F.T.O.,
+
+159
+00:09:27,370 --> 00:09:29,060
+but it beats being a vampire.
+
+160
+00:09:29,760 --> 00:09:30,960
+Number two,
+
+161
+00:09:31,190 --> 00:09:34,090
+When I tell you to do something,
+just you do it, no questions.
+
+162
+00:09:34,710 --> 00:09:36,060
+And number three,
+
+163
+00:09:36,670 --> 00:09:38,880
+Don't touch my radio. Got it?
+
+164
+00:09:39,430 --> 00:09:40,420
+Yes, Ma'am.
+
+165
+00:09:40,770 --> 00:09:43,460
+Carter. Just Carter.
+
+166
+00:09:49,900 --> 00:09:52,215
+How is it I got stuck
+being the office monkey?
+
+167
+00:09:52,250 --> 00:09:55,520
+I thought you liked being in
+the middle of the action, Shaw.
+
+168
+00:09:55,555 --> 00:09:57,680
+I think I'd see more
+action in a tollbooth.
+
+169
+00:10:01,460 --> 00:10:03,280
+I was just emptying the trash.
+
+170
+00:10:05,120 --> 00:10:06,460
+No problem.
+
+171
+00:10:06,690 --> 00:10:08,155
+- I'll come back.
+- Okay.
+
+172
+00:10:08,190 --> 00:10:09,490
+Tell the board we're
+meeting tomorrow.
+
+173
+00:10:09,525 --> 00:10:11,000
+Sure thing, Mr. Kruger.
+
+174
+00:10:11,790 --> 00:10:14,090
+Quite a stunt you pulled
+with the baby rattle.
+
+175
+00:10:14,125 --> 00:10:15,745
+I'd have told you about it,
+
+176
+00:10:15,780 --> 00:10:18,550
+but you'd have tried
+to talk me out of it.
+
+177
+00:10:18,585 --> 00:10:20,995
+You're right. We need this deal.
+
+178
+00:10:21,030 --> 00:10:22,415
+Well, we just got
+it. Come on, Barry.
+
+179
+00:10:22,450 --> 00:10:25,930
+This changes everything.
+This puts us on the map.
+
+180
+00:10:26,600 --> 00:10:27,465
+What is it, Haley?
+
+181
+00:10:27,500 --> 00:10:28,375
+It's about the party tonight.
+
+182
+00:10:28,410 --> 00:10:30,550
+I tried to put the restaurant
+deposit on your credit card
+
+183
+00:10:30,585 --> 00:10:31,920
+but it was declined.
+
+184
+00:10:31,955 --> 00:10:33,085
+What? Why?
+
+185
+00:10:33,120 --> 00:10:35,650
+I don't know, the bank
+wouldn't tell me, I'm sorry.
+
+186
+00:10:35,685 --> 00:10:36,660
+I'll handle it.
+
+187
+00:10:41,610 --> 00:10:43,075
+You know, sometimes, I
+wish I had an assistant
+
+188
+00:10:43,110 --> 00:10:46,870
+whose qualifications extended
+beyond having a great ass.
+
+189
+00:10:47,400 --> 00:10:49,400
+I sure hope this
+guy's a perpetrator.
+
+190
+00:10:49,810 --> 00:10:51,740
+Want to go to a party, Shaw?
+
+191
+00:10:52,030 --> 00:10:54,270
+Only if you promise to
+wear something pretty.
+
+192
+00:11:15,750 --> 00:11:17,540
+Thanks. You.
+
+193
+00:11:19,430 --> 00:11:23,145
+First, I want to say
+it's great of all of you
+
+194
+00:11:23,180 --> 00:11:26,860
+to make it tonight,
+especially my wife Dedee.
+
+195
+00:11:28,960 --> 00:11:31,100
+Mr. Reese, how's
+the Kruger's party?
+
+196
+00:11:31,135 --> 00:11:32,375
+Delightful.
+
+197
+00:11:32,410 --> 00:11:33,575
+Have you learned anything?
+
+198
+00:11:33,610 --> 00:11:35,840
+Just that Kruger's
+got a lot of friends,
+
+199
+00:11:36,450 --> 00:11:38,170
+appears to be happily married,
+
+200
+00:11:39,190 --> 00:11:42,500
+and Shaw likes truffled quail eggs.
+
+201
+00:11:43,570 --> 00:11:45,870
+You can't expect me to shoot
+somebody on an empty stomach.
+
+202
+00:11:45,905 --> 00:11:48,020
+I'd prefer you didn't
+shoot anyone at all.
+
+203
+00:11:48,540 --> 00:11:50,440
+What about you,
+Finch? Dig anything up?
+
+204
+00:11:50,475 --> 00:11:53,375
+Yes. Kruger's gone to great lengths
+
+205
+00:11:53,410 --> 00:11:56,580
+to suppress any bad
+publicity about LifeTrace.
+
+206
+00:11:56,615 --> 00:12:00,630
+Negative blog posts, news articles,
+
+207
+00:12:01,200 --> 00:12:05,020
+Even a class action lawsuit buried
+in non-disclosure agreements,
+
+208
+00:12:05,055 --> 00:12:07,280
+All scrubbed from the internet.
+
+209
+00:12:07,850 --> 00:12:09,790
+Sweetheart, I love
+you. This is for you.
+
+210
+00:12:59,140 --> 00:13:00,435
+I've got nothing to hide.
+
+211
+00:13:00,470 --> 00:13:02,050
+I've got nothing to hide.
+
+212
+00:13:02,085 --> 00:13:03,630
+I've got nothing to hide.
+
+213
+00:13:04,520 --> 00:13:07,350
+Turn it off. Turn it off, now!
+
+214
+00:13:07,840 --> 00:13:08,840
+Turn it off!
+
+215
+00:13:12,110 --> 00:13:13,680
+This somebody's idea of a joke?
+
+216
+00:13:16,060 --> 00:13:18,650
+Dedee, honey,
+I have no id--
+
+217
+00:13:19,890 --> 00:13:20,865
+Mr. Reese?
+
+218
+00:13:20,900 --> 00:13:24,500
+Yeah, someone just turned Kruger's
+anniversary video into a sex tape.
+
+219
+00:13:24,550 --> 00:13:25,560
+Oh, my.
+
+220
+00:13:25,650 --> 00:13:28,290
+Sweetie,
+listen--
+
+221
+00:13:35,750 --> 00:13:37,000
+What are you all looking at?
+
+222
+00:13:39,560 --> 00:13:41,140
+Go home. The party's over.
+
+223
+00:13:41,360 --> 00:13:42,700
+Party's over!
+
+224
+00:13:48,740 --> 00:13:50,735
+Just when things were
+getting interesting.
+
+225
+00:13:50,770 --> 00:13:52,785
+I know, first his
+credit cards, now this.
+
+226
+00:13:52,820 --> 00:13:54,800
+Someone's messing
+with Kruger, Finch.
+
+227
+00:13:54,830 --> 00:13:56,855
+The machine wouldn't
+send us his number
+
+228
+00:13:56,890 --> 00:13:58,775
+if someone just wanted
+to humiliate him.
+
+229
+00:13:58,810 --> 00:14:00,660
+No, we need to find
+whoever's behind this
+
+230
+00:14:00,695 --> 00:14:02,440
+before they come after him again.
+
+231
+00:14:03,680 --> 00:14:06,310
+Or before Kruger finds them first.
+
+232
+00:14:23,680 --> 00:14:27,425
+- Finch.
+- Ms. Shaw. Is everything all right?
+
+233
+00:14:27,460 --> 00:14:31,120
+Don't sound so worried, Harold.
+I haven't hurt anybody...yet.
+
+234
+00:14:31,210 --> 00:14:32,825
+Very reassuring. You have news?
+
+235
+00:14:32,860 --> 00:14:35,255
+I think I know who hijacked
+Kruger's anniversary party.
+
+236
+00:14:35,290 --> 00:14:37,870
+Here's the restaurant's security
+camera footage from last night.
+
+237
+00:14:40,980 --> 00:14:42,580
+A woman dressed as a waiter.
+
+238
+00:14:42,720 --> 00:14:44,420
+None of the waitstaff
+had seen her before.
+
+239
+00:14:44,455 --> 00:14:45,650
+I might have.
+
+240
+00:14:45,940 --> 00:14:47,695
+I've been going
+through all the parties
+
+241
+00:14:47,730 --> 00:14:49,450
+to the class action
+suit against Kruger.
+
+242
+00:14:50,280 --> 00:14:51,515
+All of them claim to
+have been victimized
+
+243
+00:14:51,550 --> 00:14:54,790
+when their personal information
+was released by LifeTrace.
+
+244
+00:14:54,825 --> 00:14:55,935
+Victimized how?
+
+245
+00:14:55,970 --> 00:15:00,240
+Identity theft, harassment,
+blackmail, fraud.
+
+246
+00:15:00,860 --> 00:15:01,940
+Even murder.
+
+247
+00:15:02,060 --> 00:15:02,800
+Who?
+
+248
+00:15:03,120 --> 00:15:04,495
+Chloe Harper,
+
+249
+00:15:04,530 --> 00:15:06,690
+Daughter of the lead
+plaintiff, Sherry Harper.
+
+250
+00:15:06,725 --> 00:15:08,035
+She lost her life to a stalker,
+
+251
+00:15:08,070 --> 00:15:10,540
+who found her home
+address using LifeTrace.
+
+252
+00:15:10,575 --> 00:15:12,502
+No wonder Kruger
+wanted the suit buried.
+
+253
+00:15:12,537 --> 00:15:14,430
+Detective Fusco is
+running background checks
+
+254
+00:15:14,465 --> 00:15:16,570
+on all of the
+plaintiffs as we speak.
+
+255
+00:15:17,120 --> 00:15:18,895
+Wait, I just found
+our mystery waiter.
+
+256
+00:15:18,930 --> 00:15:21,240
+Her name is Karen Mills.
+She lives in Queens.
+
+257
+00:15:21,430 --> 00:15:22,430
+I'm on my way.
+
+258
+00:15:22,440 --> 00:15:23,815
+No, stay put, Ms. Shaw.
+
+259
+00:15:23,850 --> 00:15:26,060
+I'll see if Detective
+Carter can help us.
+
+260
+00:15:39,750 --> 00:15:41,920
+- What did she do?
+- Rolled a stop.
+
+261
+00:15:42,440 --> 00:15:43,430
+Really?
+
+262
+00:15:45,510 --> 00:15:48,840
+Stay in the car. I got this.
+
+263
+00:15:58,380 --> 00:16:00,280
+License and registration, please.
+
+264
+00:16:06,270 --> 00:16:07,310
+Something wrong, Officer?
+
+265
+00:16:08,160 --> 00:16:09,320
+You could say that.
+
+266
+00:16:13,060 --> 00:16:14,970
+Why are you coming
+after Wayne Kruger?
+
+267
+00:16:17,710 --> 00:16:19,650
+Don't make me ask twice, Ms. Mills.
+
+268
+00:16:21,480 --> 00:16:23,270
+I-I got a package.
+
+269
+00:16:23,305 --> 00:16:25,060
+A package? From who?
+
+270
+00:16:25,480 --> 00:16:26,510
+I don't know.
+
+271
+00:16:27,350 --> 00:16:28,810
+It was anonymous.
+
+272
+00:16:28,900 --> 00:16:31,055
+There was a DVD and
+some instructions
+
+273
+00:16:31,090 --> 00:16:33,150
+on what to do if I
+wanted to get back at him.
+
+274
+00:16:33,590 --> 00:16:35,180
+Why? What did he do to you?
+
+275
+00:16:36,010 --> 00:16:37,960
+He ruined my life.
+
+276
+00:16:38,880 --> 00:16:39,750
+How?
+
+277
+00:16:42,680 --> 00:16:45,750
+I was a paralegal at a law firm.
+
+278
+00:16:46,600 --> 00:16:48,330
+It's where I met my fiance.
+
+279
+00:16:49,560 --> 00:16:51,965
+One day, some of
+the assistants were
+
+280
+00:16:52,000 --> 00:16:56,780
+looking people up on
+this website, LifeTrace.
+
+281
+00:16:57,390 --> 00:16:59,370
+They found some pictures.
+
+282
+00:16:59,710 --> 00:17:01,120
+What kind of pictures?
+
+283
+00:17:03,470 --> 00:17:06,260
+They were taken
+by an ex-boyfriend,
+
+284
+00:17:06,295 --> 00:17:09,150
+of us, in his bedroom.
+
+285
+00:17:10,300 --> 00:17:11,850
+And everyone saw them.
+
+286
+00:17:12,090 --> 00:17:14,720
+My fiance, he...
+
+287
+00:17:15,640 --> 00:17:17,550
+called off our engagement.
+
+288
+00:17:21,020 --> 00:17:22,460
+When I got the package,
+
+289
+00:17:23,400 --> 00:17:25,330
+I saw a chance to make Kruger
+
+290
+00:17:25,365 --> 00:17:27,260
+feel the humiliation that I felt.
+
+291
+00:17:28,490 --> 00:17:29,800
+So I took it.
+
+292
+00:17:34,980 --> 00:17:35,830
+Okay.
+
+293
+00:17:37,150 --> 00:17:40,170
+I'm gonna let you off with a
+warning this time, Ms. Mills.
+
+294
+00:17:41,690 --> 00:17:44,230
+So long as you take
+that package you got
+
+295
+00:17:44,750 --> 00:17:47,890
+take it to a Detective Lionel
+Fusco at the 8th precinct,
+
+296
+00:17:47,925 --> 00:17:51,030
+and you promise me you'll never
+do anything like that again.
+
+297
+00:17:51,070 --> 00:17:54,220
+Thank you. I won't, Officer.
+
+298
+00:17:54,600 --> 00:17:58,520
+Good, 'cause the NYPD, we'll know.
+
+299
+00:17:58,610 --> 00:17:59,670
+Trust me.
+
+300
+00:18:07,190 --> 00:18:08,570
+Hope you got that.
+
+301
+00:18:08,850 --> 00:18:09,910
+Mr. Reese?
+
+302
+00:18:10,070 --> 00:18:11,000
+I heard.
+
+303
+00:18:11,480 --> 00:18:13,190
+Doesn't sound like
+she had anything to do
+
+304
+00:18:13,200 --> 00:18:14,870
+with the other attacks on Kruger.
+
+305
+00:18:14,890 --> 00:18:17,600
+Likely done by whoever
+sent the anonymous package.
+
+306
+00:18:20,090 --> 00:18:21,685
+Look, baby, I know you're mad,
+
+307
+00:18:21,720 --> 00:18:23,245
+but I need you to call me back.
+
+308
+00:18:23,280 --> 00:18:24,980
+The bank says our
+cards have been canceled
+
+309
+00:18:25,015 --> 00:18:26,907
+and our account's emptied out.
+
+310
+00:18:26,942 --> 00:18:28,800
+Something's wrong. Just call me.
+
+311
+00:18:28,950 --> 00:18:31,290
+Haley, will you get my
+accountant on the line?
+
+312
+00:18:31,970 --> 00:18:33,750
+What are you doing?
+What's the problem?
+
+313
+00:18:33,785 --> 00:18:34,950
+My problem?
+
+314
+00:18:35,960 --> 00:18:37,660
+First saved message.
+
+315
+00:18:37,670 --> 00:18:39,335
+You know, sometimes, I
+wish I had an assistant
+
+316
+00:18:39,370 --> 00:18:42,990
+whose qualifications extended
+beyond having a great ass.
+
+317
+00:18:43,530 --> 00:18:45,860
+- Where did that come from?
+- You, apparently.
+
+318
+00:18:45,980 --> 00:18:48,480
+Someone is using Kruger's
+own words against him.
+
+319
+00:18:48,610 --> 00:18:50,220
+His office must be bugged.
+
+320
+00:18:50,760 --> 00:18:52,100
+Screw you, Wayne.
+
+321
+00:19:00,090 --> 00:19:01,200
+Mr. Hayes?
+
+322
+00:19:02,980 --> 00:19:04,150
+Mr. Collier.
+
+323
+00:19:04,910 --> 00:19:08,650
+Mr. Collier, what's going on?
+
+324
+00:19:09,840 --> 00:19:12,410
+In light of recent developments,
+
+325
+00:19:13,410 --> 00:19:14,885
+Mr. Deaver doesn't think LifeTrace
+
+326
+00:19:14,920 --> 00:19:16,870
+is the best partner
+for us, after all.
+
+327
+00:19:18,150 --> 00:19:18,710
+Excuse me.
+
+328
+00:19:23,490 --> 00:19:25,240
+This is getting
+better by the minute.
+
+329
+00:19:26,060 --> 00:19:28,070
+What the hell happened?
+
+330
+00:19:28,150 --> 00:19:29,710
+I was hoping you could tell me.
+
+331
+00:19:34,360 --> 00:19:37,675
+No. No, no, no. You
+gotta take the site down.
+
+332
+00:19:37,710 --> 00:19:40,990
+We already did, but not
+before Riverton saw it.
+
+333
+00:19:41,360 --> 00:19:42,750
+They yanked the deal!
+
+334
+00:19:43,370 --> 00:19:45,120
+I cannot believe this is happening!
+
+335
+00:19:45,130 --> 00:19:47,895
+You never said you went
+bankrupt, or had a DUI.
+
+336
+00:19:47,930 --> 00:19:50,660
+That was over ten years
+ago. It was expunged.
+
+337
+00:19:50,695 --> 00:19:51,970
+Is this an arrest warrant?
+
+338
+00:19:51,980 --> 00:19:53,875
+I was in college. It was dismissed.
+
+339
+00:19:53,910 --> 00:19:56,280
+Look, this is all ancient history.
+
+340
+00:19:56,315 --> 00:19:58,615
+It's new to us, and to Riverton.
+
+341
+00:19:58,650 --> 00:20:00,730
+Someone is screwing with
+me. Can't you see that?
+
+342
+00:20:02,200 --> 00:20:05,530
+Wayne, we think it
+might be best if you...
+
+343
+00:20:05,990 --> 00:20:08,550
+took some time to sort
+out your personal issues.
+
+344
+00:20:10,630 --> 00:20:12,015
+If I took some time?
+
+345
+00:20:12,050 --> 00:20:15,270
+A leave of absence while
+we evaluate our options.
+
+346
+00:20:15,305 --> 00:20:17,070
+While you evaluate your options?
+
+347
+00:20:18,140 --> 00:20:19,705
+This is my company, Barry!
+
+348
+00:20:19,740 --> 00:20:23,390
+And you're the face of it.
+And that's now a problem.
+
+349
+00:20:27,400 --> 00:20:29,150
+Okay,
+look--
+
+350
+00:20:29,640 --> 00:20:31,080
+We already took a vote.
+
+351
+00:20:36,750 --> 00:20:39,580
+Fine. Fine.
+
+352
+00:20:42,050 --> 00:20:44,010
+But I'm gonna find out
+who's doing this to me.
+
+353
+00:20:44,770 --> 00:20:47,070
+And then, I'm gonna call Riverton.
+
+354
+00:20:48,870 --> 00:20:49,920
+I'm gonna fix this.
+
+355
+00:20:51,810 --> 00:20:54,300
+Looks like Kruger's just been
+kicked out of his own company.
+
+356
+00:20:54,480 --> 00:20:56,700
+Things are escalating
+with Kruger, Finch.
+
+357
+00:20:57,410 --> 00:20:59,450
+We any closer to
+finding the perpetrator?
+
+358
+00:20:59,485 --> 00:21:00,940
+I'm working on it, Mr. Reese.
+
+359
+00:21:20,500 --> 00:21:21,380
+Hello.
+
+360
+00:21:21,420 --> 00:21:23,495
+You've hurt a great many people,
+
+361
+00:21:23,530 --> 00:21:25,570
+- Mr. Kruger.
+- What? Who is this?
+
+362
+00:21:25,690 --> 00:21:27,730
+You need to understand.
+
+363
+00:21:28,480 --> 00:21:29,940
+Understand what?
+
+364
+00:21:30,280 --> 00:21:33,290
+You listen to me. If I find
+out you're the one responsible--
+
+365
+00:21:44,740 --> 00:21:45,775
+The elevator's free falling.
+
+366
+00:21:45,810 --> 00:21:48,040
+Modern elevators do
+not freefall, Ms. Shaw.
+
+367
+00:21:48,050 --> 00:21:49,360
+Tell that to Kruger.
+
+368
+00:21:52,770 --> 00:21:54,510
+You can't fight the technology.
+
+369
+00:21:55,680 --> 00:21:57,940
+Somebody has disabled
+the auto-safety features.
+
+370
+00:21:58,810 --> 00:22:01,900
+The elevators aren't
+networked. I can't access them.
+
+371
+00:22:49,330 --> 00:22:50,840
+Kruger made it out, Finch.
+
+372
+00:22:51,200 --> 00:22:53,580
+Whoever's coming after
+him has taken his company,
+
+373
+00:22:53,615 --> 00:22:55,880
+his money, his marriage.
+
+374
+00:22:55,920 --> 00:22:58,400
+Soon the only thing left
+to take will be his life.
+
+375
+00:23:11,070 --> 00:23:13,920
+Finch, the call he
+got in the elevator,
+
+376
+00:23:14,090 --> 00:23:15,180
+could you trace it?
+
+377
+00:23:15,190 --> 00:23:17,705
+No, but whoever
+hijacked the elevator
+
+378
+00:23:17,740 --> 00:23:20,460
+would have needed access to
+the building's electrical room.
+
+379
+00:23:20,980 --> 00:23:23,750
+I do know who cleaned out
+Kruger's bank accounts.
+
+380
+00:23:23,785 --> 00:23:25,835
+- Who?
+- Dennis Paulson.
+
+381
+00:23:25,870 --> 00:23:28,480
+Detective Fusco got his
+photo off the phony ID.
+
+382
+00:23:28,515 --> 00:23:31,550
+He used to cash out
+Kruger's accounts.
+
+383
+00:23:31,750 --> 00:23:35,990
+He's another member of the
+class action suit against Kruger,
+
+384
+00:23:36,000 --> 00:23:37,040
+same as Ms. Mills.
+
+385
+00:23:37,520 --> 00:23:40,570
+Then we're looking at
+multiple perpetrators.
+
+386
+00:23:40,605 --> 00:23:43,627
+Yes. Paulson lost his
+job and was arrested
+
+387
+00:23:43,662 --> 00:23:46,615
+after LifeTrace
+conflated his profile with
+
+388
+00:23:46,650 --> 00:23:49,470
+that of a serial rapist who
+happened to have the same name.
+
+389
+00:23:49,930 --> 00:23:51,450
+Hate it when that happens.
+
+390
+00:23:54,050 --> 00:23:56,565
+Paulson told Fusco he'd
+received the fake ID.
+
+391
+00:23:56,600 --> 00:23:59,930
+and Kruger's banking information
+in an anonymous package.
+
+392
+00:24:01,130 --> 00:24:02,415
+Same as Karen Mills.
+
+393
+00:24:02,450 --> 00:24:03,950
+Someone's giving these
+victims everything
+
+394
+00:24:03,960 --> 00:24:05,500
+they need to get back at Kruger.
+
+395
+00:24:05,535 --> 00:24:07,445
+It's turnkey revenge.
+
+396
+00:24:07,480 --> 00:24:09,855
+How many people in
+that class action?
+
+397
+00:24:09,890 --> 00:24:12,230
+Over 200. 23 in
+the tri-state area.
+
+398
+00:24:12,240 --> 00:24:13,940
+Finch, we can't stop that many.
+
+399
+00:24:13,975 --> 00:24:15,300
+It'd be fun trying.
+
+400
+00:24:15,780 --> 00:24:18,555
+I gotta ask, though, is
+this guy even worth our time?
+
+401
+00:24:18,590 --> 00:24:21,140
+You know, that's not a question
+we entertained when we saved you,
+
+402
+00:24:21,175 --> 00:24:22,060
+Ms. Shaw.
+
+403
+00:24:23,100 --> 00:24:26,200
+Our only chance to save
+Kruger is to find him.
+
+404
+00:24:26,235 --> 00:24:28,160
+I'm sending you his coordinates.
+
+405
+00:24:37,090 --> 00:24:39,370
+Guy's a member of
+the Northside Killas.
+
+406
+00:24:39,380 --> 00:24:41,310
+Dang, got shot up pretty bad.
+
+407
+00:24:43,040 --> 00:24:44,370
+Who do you think did this?
+
+408
+00:24:44,500 --> 00:24:45,640
+Hard to say.
+
+409
+00:24:45,880 --> 00:24:48,190
+I'd talk to his
+regular customers first,
+
+410
+00:24:48,320 --> 00:24:50,600
+see who he was
+having problems with.
+
+411
+00:24:50,670 --> 00:24:52,955
+But that's not our job.
+
+412
+00:24:52,990 --> 00:24:56,430
+We just secure the scene
+and take the statements.
+
+413
+00:24:57,100 --> 00:24:57,920
+Right.
+
+414
+00:25:00,220 --> 00:25:01,310
+First body?
+
+415
+00:25:02,490 --> 00:25:03,280
+Yeah.
+
+416
+00:25:05,310 --> 00:25:06,270
+You okay?
+
+417
+00:25:06,800 --> 00:25:08,540
+Yeah, fine.
+
+418
+00:25:14,270 --> 00:25:15,250
+Rookies.
+
+419
+00:25:22,470 --> 00:25:24,810
+I don't know what happened.
+
+420
+00:25:24,845 --> 00:25:27,150
+No? Take a look at your shoes.
+
+421
+00:25:28,930 --> 00:25:30,660
+Just suck on the ice.
+
+422
+00:25:35,120 --> 00:25:36,555
+You find anything?
+
+423
+00:25:36,590 --> 00:25:38,170
+I haven't looked yet. Hang on.
+
+424
+00:25:46,850 --> 00:25:47,920
+Let's see.
+
+425
+00:25:50,950 --> 00:25:52,930
+What is it?
+
+426
+00:25:53,320 --> 00:25:54,740
+The file's been frozen.
+
+427
+00:25:54,775 --> 00:25:55,945
+What? Why?
+
+428
+00:25:55,980 --> 00:25:59,410
+Why do you think? Probably
+too many prying eyes.
+
+429
+00:26:00,320 --> 00:26:03,325
+I'm feeling a little better,
+
+430
+00:26:03,360 --> 00:26:05,220
+so if you want to
+get back to it--
+
+431
+00:26:07,140 --> 00:26:08,900
+Yeah, sure. Let's go.
+
+432
+00:26:21,400 --> 00:26:23,840
+Okay, Finch, I've got him.
+
+433
+00:26:23,880 --> 00:26:26,210
+Mr. Collier, it's
+Wayne Kruger again.
+
+434
+00:26:26,270 --> 00:26:29,070
+I'm really hoping that we
+can meet before you leave town
+
+435
+00:26:29,240 --> 00:26:31,670
+so I can explain the
+confusion earlier today.
+
+436
+00:26:32,090 --> 00:26:34,580
+If you give me a chance, I'm
+sure we can sort this all out.
+
+437
+00:26:41,300 --> 00:26:43,860
+Those crying the
+loudest about privacy
+
+438
+00:26:44,500 --> 00:26:46,730
+are probably the ones
+trying to hide something.
+
+439
+00:26:55,000 --> 00:26:55,850
+Finch.
+
+440
+00:26:56,130 --> 00:26:57,430
+They've hacked the car.
+
+441
+00:27:00,320 --> 00:27:01,900
+You can't fight the technology.
+
+442
+00:27:02,350 --> 00:27:03,395
+Someone is overriding
+
+443
+00:27:03,430 --> 00:27:05,480
+the vehicle's
+electronic control unit.
+
+444
+00:27:05,810 --> 00:27:07,130
+You can't fight the technology.
+
+445
+00:27:07,165 --> 00:27:08,507
+Mr. Reese, they can take control
+
+446
+00:27:08,542 --> 00:27:09,850
+of his steering and throttle.
+
+447
+00:27:46,210 --> 00:27:47,780
+Bet you could use a lift.
+
+448
+00:28:09,690 --> 00:28:10,500
+Where am I?
+
+449
+00:28:10,880 --> 00:28:12,165
+Somewhere you won't be attacked
+
+450
+00:28:12,200 --> 00:28:13,800
+by the people who are
+trying to kill you.
+
+451
+00:28:14,320 --> 00:28:15,220
+And you are?
+
+452
+00:28:16,000 --> 00:28:18,180
+Right now, your only option.
+
+453
+00:28:20,930 --> 00:28:23,360
+My car, what happened?
+
+454
+00:28:23,950 --> 00:28:26,040
+This electronic control unit,
+
+455
+00:28:26,200 --> 00:28:28,365
+it overrode your
+car's internal E.C.U.,
+
+456
+00:28:28,400 --> 00:28:31,940
+allowing someone to control the
+vehicle's functions remotely.
+
+457
+00:28:32,060 --> 00:28:33,120
+Someone who?
+
+458
+00:28:33,160 --> 00:28:36,200
+One of the members of that class
+action suit brought against you.
+
+459
+00:28:36,235 --> 00:28:38,785
+That suit? My lawyers settled that.
+
+460
+00:28:38,820 --> 00:28:41,770
+Not to everyone's
+satisfaction, it would seem.
+
+461
+00:28:43,820 --> 00:28:45,100
+That's interesting.
+
+462
+00:28:45,450 --> 00:28:46,330
+What?
+
+463
+00:28:47,240 --> 00:28:49,820
+Chloe Harper, the young
+woman killed by her stalker.
+
+464
+00:28:49,830 --> 00:28:52,300
+Her mother was lead plaintiff, but
+there was no mention of her father.
+
+465
+00:28:52,335 --> 00:28:53,200
+I just looked him up.
+
+466
+00:28:53,235 --> 00:28:54,870
+Stu Sommers.
+
+467
+00:28:55,390 --> 00:28:57,695
+Different last name
+than Chloe's--divorced?
+
+468
+00:28:57,730 --> 00:29:00,000
+I remember that man
+from your building.
+
+469
+00:29:01,000 --> 00:29:02,590
+He was posing as a janitor.
+
+470
+00:29:04,860 --> 00:29:07,690
+Yeah, Carl, hasn't
+been around that long.
+
+471
+00:29:09,000 --> 00:29:10,605
+Because until three
+months ago, he worked
+
+472
+00:29:10,640 --> 00:29:12,835
+as an electrical engineer
+at an aerospace firm.
+
+473
+00:29:12,870 --> 00:29:15,030
+With a pedigree like that,
+he would have the skills
+
+474
+00:29:15,065 --> 00:29:18,620
+to design these
+sophisticated attacks.
+
+475
+00:29:20,280 --> 00:29:21,390
+We need to find him.
+
+476
+00:29:21,930 --> 00:29:23,910
+He must be staying
+somewhere in the city.
+
+477
+00:29:23,950 --> 00:29:28,010
+His personnel file, it would
+have to have an address.
+
+478
+00:29:28,045 --> 00:29:29,300
+I can call tomorrow morning.
+
+479
+00:29:29,335 --> 00:29:31,130
+Not necessary.
+
+480
+00:29:35,190 --> 00:29:37,290
+Are you hacking my
+building's servers?
+
+481
+00:29:40,340 --> 00:29:41,280
+Do you mind?
+
+482
+00:29:45,310 --> 00:29:48,580
+Carl Miller, 162 Willow
+Street, apartment 4, Brooklyn.
+
+483
+00:29:48,615 --> 00:29:50,190
+He'll either be there or
+he'll be at Life Trace,
+
+484
+00:29:50,225 --> 00:29:51,865
+where he has access
+to the computers.
+
+485
+00:29:51,900 --> 00:29:54,690
+Planning his next
+attack. I'll check it out.
+
+486
+00:29:55,030 --> 00:29:56,170
+I'll hit the apartment.
+
+487
+00:30:00,990 --> 00:30:03,180
+Perhaps you should
+rest, Mr. Kruger.
+
+488
+00:30:03,850 --> 00:30:05,160
+You've had quite a day.
+
+489
+00:30:23,070 --> 00:30:24,450
+Got anything to eat around here?
+
+490
+00:30:24,500 --> 00:30:28,350
+Just sencha green tea and
+a box of doggie treats.
+
+491
+00:30:31,100 --> 00:30:32,000
+I don't suppose what
+you're working on
+
+492
+00:30:32,035 --> 00:30:33,355
+over there concerns me.
+
+493
+00:30:33,390 --> 00:30:35,075
+I'm trying to
+triangulate the location
+
+494
+00:30:35,110 --> 00:30:36,760
+of the call you
+received in the elevator.
+
+495
+00:30:37,400 --> 00:30:39,500
+Did you recognize
+anything about the caller?
+
+496
+00:30:41,260 --> 00:30:42,170
+No, nothing.
+
+497
+00:30:51,860 --> 00:30:53,160
+I'd prefer you didn't do that.
+
+498
+00:30:54,550 --> 00:30:56,270
+I'd prefer you mind
+your own business.
+
+499
+00:30:56,720 --> 00:30:59,630
+That's a tad ironic, coming
+from a man of your profession.
+
+500
+00:31:00,210 --> 00:31:02,280
+- Meaning what?
+- Meaning your business
+
+501
+00:31:02,315 --> 00:31:04,350
+is minding everyone
+else's business.
+
+502
+00:31:04,950 --> 00:31:08,540
+I do what I do to simplify and
+improve other people's lives.
+
+503
+00:31:08,575 --> 00:31:09,755
+What is it that you do?
+
+504
+00:31:09,790 --> 00:31:12,530
+We help people out of
+difficult situations,
+
+505
+00:31:12,590 --> 00:31:14,500
+even situations of
+their own design.
+
+506
+00:31:14,870 --> 00:31:18,580
+So it's my fault that some
+wacko's trying to kill me?
+
+507
+00:31:18,615 --> 00:31:20,580
+The man lost his
+daughter, Mr. Kruger,
+
+508
+00:31:20,830 --> 00:31:23,300
+to a stalker who was
+aided by your service.
+
+509
+00:31:23,335 --> 00:31:24,805
+You feel no accountability?
+
+510
+00:31:24,840 --> 00:31:28,325
+I'm part of a $300
+billion-a-year industry.
+
+511
+00:31:28,360 --> 00:31:31,000
+Information abuses are
+unfortunate, but they happen.
+
+512
+00:31:31,035 --> 00:31:32,350
+- can't be helped.
+- Oh, they can,
+
+513
+00:31:32,450 --> 00:31:35,320
+but only if the people who
+have access to the information
+
+514
+00:31:35,355 --> 00:31:36,760
+are as interested in protecting it
+
+515
+00:31:36,770 --> 00:31:38,750
+as they are in profiting from it.
+
+516
+00:31:41,650 --> 00:31:44,670
+I was just checking to
+see if my wife had called.
+
+517
+00:31:45,000 --> 00:31:46,340
+I want to make sure she was okay.
+
+518
+00:31:47,550 --> 00:31:49,260
+Mr. Kruger, I didn't
+want you using the phone
+
+519
+00:31:49,295 --> 00:31:50,875
+because it might not be safe,
+
+520
+00:31:50,910 --> 00:31:52,500
+but if you must
+check your messages,
+
+521
+00:31:52,930 --> 00:31:55,920
+We can go through your
+phone carrier's web portal.
+
+522
+00:31:56,500 --> 00:31:57,590
+Need my password?
+
+523
+00:32:00,020 --> 00:32:00,990
+You have a message.
+
+524
+00:32:01,000 --> 00:32:02,965
+Mr. Kruger, Pete Collier.
+
+525
+00:32:03,000 --> 00:32:04,740
+I spoke with my
+colleagues and they agreed
+
+526
+00:32:04,775 --> 00:32:06,085
+we should all sit down again.
+
+527
+00:32:06,120 --> 00:32:08,495
+If you could meet us
+at the Mayfield at 9:30,
+
+528
+00:32:08,530 --> 00:32:10,590
+that should give us enough
+time before our flight.
+
+529
+00:32:10,625 --> 00:32:12,405
+We'll meet you in
+the east dining room.
+
+530
+00:32:12,440 --> 00:32:14,840
+Yes, yes! If I leave
+now, I can still make it.
+
+531
+00:32:14,850 --> 00:32:16,200
+And what about your wife?
+
+532
+00:32:17,130 --> 00:32:18,340
+I'll call her on the way.
+
+533
+00:32:19,390 --> 00:32:20,450
+Mr. Kruger, wait.
+
+534
+00:32:20,860 --> 00:32:23,110
+The message, it's
+not labeled as "New".
+
+535
+00:32:23,780 --> 00:32:26,140
+Someone else must have
+listened to it first.
+
+536
+00:32:26,720 --> 00:32:27,570
+Who?
+
+537
+00:32:28,590 --> 00:32:29,585
+Sommers!
+
+538
+00:32:29,620 --> 00:32:31,240
+And if he's listened to it, he'll
+be waiting for you at the hotel.
+
+539
+00:32:31,840 --> 00:32:32,975
+It's too dangerous.
+
+540
+00:32:33,010 --> 00:32:35,820
+I don't care, there's too
+much riding on this deal.
+
+541
+00:32:38,260 --> 00:32:39,930
+All right, I'll
+contact my associates,
+
+542
+00:32:39,965 --> 00:32:41,600
+Then have them meet
+us at the hotel.
+
+543
+00:33:00,110 --> 00:33:02,280
+Okay, okay, Bear.
+
+544
+00:33:02,830 --> 00:33:03,820
+Goodness.
+
+545
+00:33:22,700 --> 00:33:23,520
+Finch.
+
+546
+00:33:23,530 --> 00:33:27,110
+Mr. Reese... Kruger's gone.
+
+547
+00:33:27,540 --> 00:33:29,740
+I made the mistake of
+turning my back on him.
+
+548
+00:33:29,750 --> 00:33:30,900
+Are you all right?
+
+549
+00:33:30,935 --> 00:33:31,910
+I will be.
+
+550
+00:33:36,070 --> 00:33:39,080
+It would appear that
+Bear slowed Kruger down.
+
+551
+00:33:39,390 --> 00:33:41,410
+He's making his way
+to the Mayfield Hotel
+
+552
+00:33:41,445 --> 00:33:43,430
+to take a meeting with
+the Riverton people.
+
+553
+00:33:43,790 --> 00:33:46,260
+I believe that Sommers
+knows that as well.
+
+554
+00:33:46,540 --> 00:33:48,090
+I'm at his locker now.
+
+555
+00:33:54,780 --> 00:33:56,115
+He's been stalking Kruger,
+
+556
+00:33:56,150 --> 00:33:58,030
+just like his own
+daughter was stalked.
+
+557
+00:33:58,065 --> 00:33:59,430
+And ultimately killed.
+
+558
+00:34:00,530 --> 00:34:02,020
+I'll get over to the Mayfield.
+
+559
+00:34:05,330 --> 00:34:06,890
+Something else, Mr. Reese.
+
+560
+00:34:08,690 --> 00:34:10,920
+Kruger's not only
+a potential victim,
+
+561
+00:34:11,900 --> 00:34:13,890
+he may also now be a perpetrator.
+
+562
+00:34:17,450 --> 00:34:18,295
+I cannot believe this is happening!
+
+563
+00:34:18,330 --> 00:34:20,530
+Someone is screwing with
+me. Can't you see that?
+
+564
+00:34:20,760 --> 00:34:21,760
+I'm gonna fix this.
+
+565
+00:34:34,380 --> 00:34:37,340
+Looking for someone? Easy.
+
+566
+00:34:38,500 --> 00:34:40,330
+I won't miss at this range.
+
+567
+00:34:42,120 --> 00:34:43,480
+So what was the plan?
+
+568
+00:34:44,380 --> 00:34:46,790
+Were you gonna take me out
+before or after my meeting?
+
+569
+00:34:48,360 --> 00:34:49,910
+I hadn't decided yet.
+
+570
+00:34:49,920 --> 00:34:51,220
+You know, you've caused me
+
+571
+00:34:51,440 --> 00:34:55,060
+a great deal of pain and
+suffering, Mr. Sommers.
+
+572
+00:34:55,095 --> 00:34:56,400
+That was the point.
+
+573
+00:34:59,410 --> 00:35:01,320
+Now, you're gonna help
+me get it all back.
+
+574
+00:35:06,800 --> 00:35:08,720
+Mr. Kruger, you got my message.
+
+575
+00:35:11,210 --> 00:35:13,410
+What...happened to you?
+
+576
+00:35:13,480 --> 00:35:17,860
+You know, I'm...
+really glad you asked.
+
+577
+00:35:18,190 --> 00:35:19,630
+Where's the rest of your team?
+
+578
+00:35:19,860 --> 00:35:22,820
+Unfortunately, they had
+to catch an earlier flight.
+
+579
+00:35:22,855 --> 00:35:24,090
+They send their regrets.
+
+580
+00:35:25,700 --> 00:35:26,570
+Hello.
+
+581
+00:35:26,590 --> 00:35:28,575
+Yeah. This is Mr. Sommers.
+
+582
+00:35:28,610 --> 00:35:31,470
+Look, I thought we were
+gonna discuss our deal.
+
+583
+00:35:32,030 --> 00:35:35,060
+Yes, well, shortly
+after I called you.
+
+584
+00:35:35,460 --> 00:35:38,525
+We attempted to revisit
+the issue with our CEO,
+
+585
+00:35:38,560 --> 00:35:41,590
+but we couldn't get him
+to reconsider his decision.
+
+586
+00:35:41,880 --> 00:35:42,625
+What?
+
+587
+00:35:42,660 --> 00:35:44,040
+I'm sorry, I thought
+a face-to-face
+
+588
+00:35:44,050 --> 00:35:46,170
+would be better than
+another phone call.
+
+589
+00:35:48,680 --> 00:35:49,440
+No.
+
+590
+00:35:49,450 --> 00:35:50,410
+- Excuse me?
+- No!
+
+591
+00:35:52,200 --> 00:35:54,750
+You have no idea what I've
+been through to get here!
+
+592
+00:35:54,785 --> 00:35:56,340
+Mr. Kruger, why do you have a gun?
+
+593
+00:35:56,360 --> 00:36:00,890
+Because this man humiliated
+me, stole from me,
+
+594
+00:36:01,000 --> 00:36:02,600
+and even tried to kill me.
+
+595
+00:36:03,220 --> 00:36:06,940
+It was his twisted little game
+that made our deal fall apart.
+
+596
+00:36:07,510 --> 00:36:09,610
+- Tell him.
+- Okay, just, let's put down the gun.
+
+597
+00:36:09,645 --> 00:36:10,680
+I said tell him!
+
+598
+00:36:15,600 --> 00:36:17,270
+Don't do it, Mr. Sommers.
+
+599
+00:36:19,580 --> 00:36:20,530
+Who are you?
+
+600
+00:36:21,860 --> 00:36:23,970
+Someone who knows
+what this is about.
+
+601
+00:36:27,370 --> 00:36:28,380
+Chloe.
+
+602
+00:36:31,030 --> 00:36:33,080
+Then you know he killed her,
+
+603
+00:36:33,115 --> 00:36:34,852
+and something had to be done.
+
+604
+00:36:34,887 --> 00:36:36,590
+I never touched your daughter.
+
+605
+00:36:36,610 --> 00:36:39,170
+You may not have put your hands
+on her like that monster did,
+
+606
+00:36:39,205 --> 00:36:41,330
+but you're just as guilty.
+
+607
+00:36:41,365 --> 00:36:43,160
+I didn't do anything!
+
+608
+00:36:43,170 --> 00:36:44,240
+Exactly.
+
+609
+00:36:45,740 --> 00:36:49,100
+See, her ex-boyfriend
+found her three times--
+
+610
+00:36:49,135 --> 00:36:51,790
+three times, using your Life Trace.
+
+611
+00:36:52,620 --> 00:36:54,360
+And every time he found her,
+
+612
+00:36:54,750 --> 00:36:57,630
+we asked the company to
+take her information down,
+
+613
+00:36:58,200 --> 00:37:00,060
+and they didn't do it,
+
+614
+00:37:00,095 --> 00:37:01,920
+and so he found her again,
+
+615
+00:37:02,230 --> 00:37:06,110
+and again, until the last
+time when he killed her.
+
+616
+00:37:07,960 --> 00:37:12,570
+All because you and your
+company didn't do anything.
+
+617
+00:37:18,310 --> 00:37:19,420
+I didn't know.
+
+618
+00:37:22,690 --> 00:37:23,590
+I'm sorry.
+
+619
+00:37:23,625 --> 00:37:24,690
+Yeah?
+
+620
+00:37:26,370 --> 00:37:27,990
+Sorry isn't good enough.
+
+621
+00:37:28,000 --> 00:37:29,620
+Listen to me, Stu.
+
+622
+00:37:31,060 --> 00:37:32,900
+You do this, and your life...
+
+623
+00:37:34,220 --> 00:37:35,310
+it's over.
+
+624
+00:37:35,710 --> 00:37:36,850
+It's already over.
+
+625
+00:37:36,885 --> 00:37:37,900
+Stu...
+
+626
+00:37:39,350 --> 00:37:41,680
+this isn't the way to honor
+your daughter's memory.
+
+627
+00:37:42,030 --> 00:37:45,080
+Think about it. What
+would Chloe want?
+
+628
+00:38:03,420 --> 00:38:07,140
+You did the right
+thing, for both of you.
+
+629
+00:38:09,160 --> 00:38:10,960
+Mr. Reese, I triangulated the call
+
+630
+00:38:10,995 --> 00:38:12,902
+that Kruger received
+in the elevator.
+
+631
+00:38:12,937 --> 00:38:14,810
+It's now coming from
+inside the Mayfield.
+
+632
+00:38:17,940 --> 00:38:18,990
+Mr. Reese?
+
+633
+00:38:21,030 --> 00:38:23,975
+You were right.
+Something had to be done,
+
+634
+00:38:24,010 --> 00:38:26,480
+Which is why we reached
+out to you, Mr. Sommers.
+
+635
+00:38:28,380 --> 00:38:32,165
+You--you did it. You
+sent me the package.
+
+636
+00:38:32,200 --> 00:38:37,110
+We sent you the means to exact
+justice for your daughter,
+
+637
+00:38:37,260 --> 00:38:40,370
+and you had the courage to act.
+
+638
+00:38:42,790 --> 00:38:45,670
+Unfortunately, the car
+crash wasn't successful...
+
+639
+00:38:45,705 --> 00:38:47,945
+Requiring this improvisation,
+
+640
+00:38:47,980 --> 00:38:50,150
+but everything
+worked out in the end.
+
+641
+00:38:52,600 --> 00:38:54,510
+You should go now, Mr. Sommers.
+
+642
+00:39:04,440 --> 00:39:06,490
+I think you understand now.
+
+643
+00:39:06,525 --> 00:39:07,900
+Understand what?
+
+644
+00:39:09,910 --> 00:39:14,760
+What is lost when your
+privacy's stripped away.
+
+645
+00:39:16,610 --> 00:39:19,940
+Your identity, your job,
+
+646
+00:39:20,330 --> 00:39:21,640
+your family,
+
+647
+00:39:22,200 --> 00:39:25,590
+security, everything.
+
+648
+00:39:27,540 --> 00:39:28,630
+You...
+
+649
+00:39:28,900 --> 00:39:31,270
+And thousands more just like me.
+
+650
+00:39:31,340 --> 00:39:35,500
+People who have chosen
+action over apathy,
+
+651
+00:39:35,510 --> 00:39:38,800
+to take back what men like you
+
+652
+00:39:39,330 --> 00:39:42,630
+and the government have stolen.
+
+653
+00:39:47,030 --> 00:39:49,280
+This wasn't a game, Mr. Kruger,
+
+654
+00:39:49,315 --> 00:39:49,980
+this was a lesson,
+
+655
+00:39:50,230 --> 00:39:51,560
+the first.
+
+656
+00:39:52,990 --> 00:39:55,220
+We were just gonna
+scare you, but...
+
+657
+00:39:57,370 --> 00:39:59,570
+that wouldn't change
+anything, would it?
+
+658
+00:40:09,620 --> 00:40:10,375
+Finch.
+
+659
+00:40:10,410 --> 00:40:11,695
+John, are you shot?
+
+660
+00:40:11,730 --> 00:40:15,480
+My vest caught it.
+Think my rib's broken.
+
+661
+00:40:15,515 --> 00:40:16,530
+And Kruger?
+
+662
+00:40:19,940 --> 00:40:21,170
+He's dead, Finch.
+
+663
+00:40:23,250 --> 00:40:24,240
+I got him.
+
+664
+00:40:24,640 --> 00:40:25,610
+Can you walk?
+
+665
+00:40:27,700 --> 00:40:29,780
+I need to get to Collier.
+
+666
+00:40:29,810 --> 00:40:31,390
+We've got to get you out of here.
+
+667
+00:40:31,470 --> 00:40:35,140
+She's right, Mr.
+Reese. Another time.
+
+668
+00:40:51,070 --> 00:40:52,430
+Back for more?
+
+669
+00:40:53,390 --> 00:40:54,890
+I need to say something.
+
+670
+00:40:55,260 --> 00:40:57,500
+Can it wait until
+after you buy me coffee?
+
+671
+00:40:58,610 --> 00:41:01,560
+I know you had to take a
+partner to get back on days,
+
+672
+00:41:01,850 --> 00:41:03,520
+but did you know
+that two other rookies
+
+673
+00:41:03,555 --> 00:41:05,190
+were supposed to be
+in this seat before me?
+
+674
+00:41:05,590 --> 00:41:07,345
+And both requested
+to be reassigned.
+
+675
+00:41:07,380 --> 00:41:09,845
+If you want another
+F.T.O., just say the word.
+
+676
+00:41:09,880 --> 00:41:12,890
+No, that's the point, I
+didn't ask to be reassigned,
+
+677
+00:41:13,490 --> 00:41:15,060
+because I chose you.
+
+678
+00:41:15,730 --> 00:41:17,750
+Chose me? Why?
+
+679
+00:41:19,210 --> 00:41:21,250
+In the academy, I heard about you.
+
+680
+00:41:22,000 --> 00:41:23,945
+Your work with the
+homicide task force
+
+681
+00:41:23,980 --> 00:41:25,890
+and how you took down
+those corrupt cops.
+
+682
+00:41:27,180 --> 00:41:27,840
+I thought,
+
+683
+00:41:27,850 --> 00:41:29,280
+"Someday, that's
+what I want to do."
+
+684
+00:41:29,640 --> 00:41:32,050
+That's why I jumped at the
+chance to train under you.
+
+685
+00:41:33,030 --> 00:41:35,690
+But I don't get the sense
+that you want to train anybody,
+
+686
+00:41:36,730 --> 00:41:38,110
+and if that's the case,
+
+687
+00:41:38,750 --> 00:41:41,060
+then I'd prefer it if
+you just cut me loose.
+
+688
+00:41:43,550 --> 00:41:48,120
+3-Adam-10, we got a report of
+a 10-53 near Morris and 149th.
+
+689
+00:41:57,500 --> 00:42:00,000
+Roger, dispatch.
+3-adam-10 responding.
+
+690
+00:42:13,920 --> 00:42:16,120
+I made a call to
+Riverton's home office.
+
+691
+00:42:16,155 --> 00:42:18,890
+Seems Collier, no doubt an alias,
+
+692
+00:42:18,925 --> 00:42:20,670
+has not returned to work.
+
+693
+00:42:21,030 --> 00:42:22,495
+And I don't think he will.
+
+694
+00:42:22,530 --> 00:42:26,070
+He started four months ago
+as V.P. of customer analytics,
+
+695
+00:42:26,180 --> 00:42:28,340
+a position that allowed him
+to get close enough to Kruger
+
+696
+00:42:28,375 --> 00:42:31,170
+so that he could both
+witness and participate
+
+697
+00:42:31,205 --> 00:42:33,430
+in the dismantling of his life.
+
+698
+00:42:34,050 --> 00:42:36,290
+He told Kruger there
+were others like him.
+
+699
+00:42:36,300 --> 00:42:38,145
+Yes, and I'm inclined
+to believe him.
+
+700
+00:42:38,180 --> 00:42:39,990
+I discovered that
+the anonymous packages
+
+701
+00:42:40,025 --> 00:42:42,012
+sent to Mr. Sommers and the others
+
+702
+00:42:42,047 --> 00:42:44,000
+came through
+mail-processing centers
+
+703
+00:42:44,035 --> 00:42:45,507
+scattered all over the country.
+
+704
+00:42:45,542 --> 00:42:46,945
+Could've saved on the postage
+
+705
+00:42:46,980 --> 00:42:48,810
+and just shot him when
+they had the chance.
+
+706
+00:42:51,750 --> 00:42:53,550
+I'm just saying it
+was an elaborate plan.
+
+707
+00:42:53,560 --> 00:42:55,540
+It wasn't just
+about killing Kruger.
+
+708
+00:42:56,280 --> 00:42:59,430
+It was about giving the people
+he hurt a chance at retribution.
+
+709
+00:43:00,490 --> 00:43:03,140
+And also putting an
+ideology into action.
+
+710
+00:43:03,630 --> 00:43:06,740
+Collier referred to Kruger's
+murder as "A lesson".
+
+711
+00:43:07,010 --> 00:43:08,110
+The first.
+
+712
+00:43:10,480 --> 00:43:12,120
+I fear that whatever
+his organization's
+
+713
+00:43:12,155 --> 00:43:13,690
+ultimate goals may be,
+
+714
+00:43:15,010 --> 00:43:16,700
+this could be just the beginning.
+
