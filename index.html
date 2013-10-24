@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!doctype html>
 <!-- The Time Machine GitHub pages theme was designed and developed by Jon Rohan, on Feb 7, 2012. -->
 <!-- Follow him for fun. http://twitter.com/jonrohan. Tail his code on http://github.com/jonrohan -->
@@ -90,3 +91,245 @@ $ git checkout gh-pages
   
 </body>
 </html>
+=======
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Insulinothérapie Fonctionnelle</title>
+		<link rel="icon" type="image/png" href="favicon.png" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- Bootstrap -->
+		<link href="css/bootstrap.css" type="text/css" rel="stylesheet"/>
+		<style>
+			header{
+				margin:0!important;
+				padding: 6px 0;
+				background:#f1f1f1;
+				border-color: #ddd;
+			}
+		</style>
+		<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+		<!--[if lt IE 9]>
+			<script src="js/html5shiv.js"></script>
+			<script src="js/respond.min.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+	
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h4 class="modal-title" id="myModalLabel">Paramètres d'IF</h4>
+      </div>
+      <div class="modal-body">
+      	<form role="form">
+      		<div class="form-group">
+	          <label for="indice">Indice de sensibilité :</label>
+	          <input type="number" class="form-control" id="indice" placeholder="Indice (g/L diminué par 1 UI)">
+	        </div>
+	        <div class="form-group">
+	          <label for="coef1">Coefficient du matin :</label>
+	          <input type="number" class="form-control" id="coef1" placeholder="Coefficient (UI pour 10g)">
+	        </div>
+	        <div class="form-group">
+	          <label for="coef2">Coefficient du midi :</label>
+	          <input type="number" class="form-control" id="coef2" placeholder="Coefficient (UI pour 10g)">
+	        </div>
+	        <div class="form-group">
+	          <label for="coef3">Coefficient de l'aprés-midi :</label>
+	          <input type="number" class="form-control" id="coef3" placeholder="Coefficient (UI pour 10g)">
+	        </div>
+	        <div class="form-group">
+	          <label for="coef4">Coefficient du soir :</label>
+	          <input type="number" class="form-control" id="coef4" placeholder="Coefficient (UI pour 10g)">
+	        </div>
+	        <div class="form-group">
+	          <label for="coef5">Coefficient de nuit :</label>
+	          <input type="number" class="form-control" id="coef5" placeholder="Coefficient (UI pour 10g)">
+	        </div>
+      	</form>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Annuler</button>
+        <button type="button" class="btn btn-primary" id="btn-save">Sauvegarder</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div>
+
+
+				<!-- Page principale -->
+		<div id="content">
+			<header class="row page-header">
+				<div class="col-sm-4 col-xs-1">
+					<button type="button" class="btn btn-default" id="btn-param">
+						<span class="glyphicon glyphicon-lines"></span>
+					</button>
+				</div>
+				<div class="col-sm-4 col-xs-12 text-center" style="margin:-6px 0;">
+					<h4>Insulinothérapie Fonctionnelle</h4>
+				</div>
+				<div class="col-sm-4 hidden-xs">
+					
+				</div>
+			</header>
+			<div class="row" style="margin:0;">
+			<div class="col-sm-4"></div>
+			<div class="col-sm-4 col-xs-12">
+				<div id="div-alert" style="padding-top: 5px;"></div>
+				<form role="form">
+					<div class="form-group">
+			          <label for="repas">Heure du repas :</label>
+			          <div class="btn-group" style="display:block;height: 34px;">
+				          <button class="btn btn-default btn-block dropdown-toggle" type="button" data-toggle="dropdown">
+							<span id="btn-repas" coef="coef1">Matin</span> <span class="caret"></span>
+							</button>
+							<ul class="dropdown-menu" role="menu" style="width:100%;" id="list-repas">
+								<li><a href="#" id="coef1">Matin</a></li>
+								<li><a href="#" id="coef2">Midi</a></li>
+								<li><a href="#" id="coef3">Aprés-midi</a></li>
+								<li><a href="#" id="coef4">Soir</a></li>
+								<li><a href="#" id="coef4">Nuit</a></li>
+							</ul>
+						</div>
+			        </div>
+			        <div class="form-group">
+			          <label for="glycemie">Glycémie avant repas :</label>
+			          <input type="number" class="form-control" id="glycemie" placeholder="Glycémie (g/dL)">
+			        </div>
+			        
+	
+					
+					<div class="form-group">
+			          <label for="glucides">Glucides du repas :</label>
+			          <input type="number" class="form-control" id="glucides" placeholder="Glucides (grammes)">
+			        </div>
+			        <div class="form-group">
+						<button class="btn btn-primary btn-block" id="btn-calcul">Calculer</button>
+			        </div>
+			        <div class="form-group">
+						<button class="btn btn-primary btn-block" id="btn-calcul-save">Calculer et enregistrer</button>
+			        </div>
+				</form>
+			</div>
+			<div class="col-sm-4"></div>
+		</div>
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="js/jquery.js"></script>
+		<!-- Include all compiled plugins (below), or include individual files as needed -->
+		<script src="js/bootstrap.min.js"></script>
+		<!-- Snap-->
+		<script type="text/javascript" src="js/snap.min.js"></script>
+		<script type="text/javascript">
+			$("#btn-calcul").click(function(e){
+				e.preventDefault();
+				calcul();
+			});
+			$("#btn-calcul-save").click(function(e){
+				e.preventDefault();
+				calcul();
+			});
+			function calcul(){
+				//correction unité
+				if($("#glycemie").val()>10){
+					$("#glycemie").val($("#glycemie").val()/100);
+				}
+				//verification param
+				if(localStorage.getItem("indice") == null || localStorage.getItem("coef1") == null || localStorage.getItem("coef2") == null || localStorage.getItem("coef3") == null || localStorage.getItem("coef4") == null || localStorage.getItem("coef5") == null){
+					$("#div-alert").html('<div class="alert alert-warning"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>Les paramètres doivent être enregistrés via le bouton <button type="button" class="btn btn-default" onClick="openParam();"><span class="glyphicon glyphicon-lines"></span></button></div>');
+				}else{
+				
+					var soigner = 0;
+					var manger = 0;
+	
+					if($("#glycemie").val() != ""){
+						var glycemie = $("#glycemie").val();
+						if( glycemie < 0.80){
+							soigner = Math.round((1 - glycemie)/localStorage.getItem("indice")*-1);
+						}
+						if( glycemie > 1.20){
+							soigner = Math.round((glycemie - 1.20)/localStorage.getItem("indice"));
+						}
+					}
+					
+					var coef;
+					if($("#btn-repas").attr("coef") == "coef1"){
+						coef = localStorage.getItem("coef1");
+					}else if($("#btn-repas").attr("coef") == "coef2"){
+						coef = localStorage.getItem("coef2");
+					}else if($("#btn-repas").attr("coef") == "coef3"){
+						coef = localStorage.getItem("coef3");
+					}else if($("#btn-repas").attr("coef") == "coef4"){
+						coef = localStorage.getItem("coef4");
+					}else{
+						coef = localStorage.getItem("coef5");
+					}
+					manger = Math.round($("#glucides").val()/10*coef);
+					
+					var total = manger + soigner;
+					var signe = "+";
+					if(soigner <0){
+						signe = "-";
+						soigner = soigner * -1;
+					}
+					$("#div-alert").html('<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>Valeur d\'insuline à ajouter : <b>'+ total +'</b> ('+ manger +''+ signe + ''+ soigner +')</div>');
+				}
+			}
+			$("#btn-param").click(function(e){
+				//charger les valeurs en local
+				$("#indice").val(localStorage.getItem("indice"));
+				$("#coef1").val(localStorage.getItem("coef1"));
+				$("#coef2").val(localStorage.getItem("coef2"));
+				$("#coef3").val(localStorage.getItem("coef3"));
+				$("#coef4").val(localStorage.getItem("coef4"));
+				$("#coef5").val(localStorage.getItem("coef5"));
+				$('#myModal').modal();
+			});
+			$("#btn-save").click(function(e){
+				//sauvegarde
+				localStorage.setItem("indice", $("#indice").val());
+				localStorage.setItem("coef1", $("#coef1").val());
+				localStorage.setItem("coef2", $("#coef2").val());
+				localStorage.setItem("coef3", $("#coef3").val());
+				localStorage.setItem("coef4", $("#coef4").val());
+				localStorage.setItem("coef5", $("#coef5").val());
+				$('#myModal').modal('hide')
+			});
+			$("#list-repas a").click(function(e){
+				e.preventDefault();
+				$("#btn-repas").html($(this).html());
+				$("#btn-repas").attr("coef",$(this).attr("id"));
+			});
+			$(window).load(function(){
+				var date = new Date();
+				var heure = date.getHours();
+				if(heure >= 11 && heure <15){
+					$("#btn-repas").html("Midi");
+					$("#btn-repas").attr("coef","coef2");
+				}else if(heure >= 15 && heure <19){
+					$("#btn-repas").html("Aprés-midi");
+					$("#btn-repas").attr("coef","coef3");
+				}else if(heure >= 19 && heure <22){
+					$("#btn-repas").html("Soir");
+					$("#btn-repas").attr("coef","coef4");
+				}else if(heure >= 22 && heure <6){
+					$("#btn-repas").html("Nuit");
+					$("#btn-repas").attr("coef","coef5");
+				}
+			});
+			function openParam(){
+				$("#indice").val(localStorage.getItem("indice"));
+				$("#coef1").val(localStorage.getItem("coef1"));
+				$("#coef2").val(localStorage.getItem("coef2"));
+				$("#coef3").val(localStorage.getItem("coef3"));
+				$("#coef4").val(localStorage.getItem("coef4"));
+				$("#coef5").val(localStorage.getItem("coef5"));
+				$('#myModal').modal();
+			}
+		</script>
+	</body>
+</html>
+>>>>>>> master
